@@ -1,1 +1,33 @@
-# tanhatlong
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Anh Long</title>
+</head>
+
+<body>
+
+<table border="1" width="100%">
+	<tr>
+		<td><font color="#FF0000">
+		<span style="font-size: 16pt; font-weight: 700; font-style: italic; text-decoration: underline">Ten</span></font></td>
+		<td width="536"><font color="#FF0000">
+		<span style="font-size: 16pt; font-weight: 700; font-style: italic; text-decoration: underline">Anh</span></font></td>
+		<td width="1127"><font color="#FF0000"><u><i><b>
+		<span style="font-size: 16pt">Ghi</span><span style="font-size: 16pt"> chu</span></b></i></u></font></td>
+	</tr>
+	<tr>
+		<td><font color="#FF0000"><u><i><b><span style="font-size: 16pt">Nhat</span><span style="font-size: 16pt"> Long</span></b></i></u></font></td>
+		<td width="536">
+		<font color="#FF0000">
+		<span style="font-size: 16pt; font-weight: 700; font-style: italic; text-decoration: underline">
+		<img border="0" src="ngay-Quoc-khanh.png" width="913" height="654"></span></font></td>
+		<td width="1127"><font color="#FF0000">
+		<span style="font-size: 16pt; font-weight: 700; font-style: italic; text-decoration: underline">perfect</span></font></td>
+	</tr>
+</table>
+
+</body>
+
+</html>
